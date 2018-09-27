@@ -1,0 +1,15 @@
+.\build\shell.o: ..\rt-thread-2.0.0\components\finsh\shell.c
+.\build\shell.o: ..\rt-thread-2.0.0\include\rthw.h
+.\build\shell.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\shell.o: .\configure\include\rtconfig.h
+.\build\shell.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\shell.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\shell.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\shell.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\shell.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\shell.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\shell.o: ..\rt-thread-2.0.0\components\finsh\finsh.h
+.\build\shell.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\shell.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\shell.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\build\shell.o: ..\rt-thread-2.0.0\components\finsh\shell.h

@@ -1,0 +1,10 @@
+.\build\memheap.o: ..\rt-thread-2.0.0\src\memheap.c
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rthw.h
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\memheap.o: .\configure\include\rtconfig.h
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\memheap.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\memheap.o: ..\rt-thread-2.0.0\include\rtthread.h

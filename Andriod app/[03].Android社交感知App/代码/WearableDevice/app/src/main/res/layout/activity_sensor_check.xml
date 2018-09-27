@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gujun.wearabledevice.SensorCheck">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="传感器测试"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="线性加速度传感器"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="#ff0000" />
+    <TextView
+        android:layout_marginLeft="140dp"
+        android:id="@+id/tv_linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"/>
+
+    <TextView
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="陀螺仪传感器"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_gyro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:textSize="22dp"/>
+
+    <TextView
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="光强传感器"
+        android:textSize="25dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:textSize="22dp"/>
+
+    <TextView
+        android:layout_marginTop="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:text="气压传感器"
+        android:textSize="25dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_baro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:textSize="22dp"/>
+
+</LinearLayout>

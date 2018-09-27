@@ -1,0 +1,12 @@
+.\build\window.o: driver\algorithm\ENERGY\window.c
+.\build\window.o: driver\algorithm\ENERGY\window.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\arm_math.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\core_cm4.h
+.\build\window.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\core_cmInstr.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\core_cmFunc.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\core_cmSimd.h
+.\build\window.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\build\window.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\math.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\arm_const_structs.h
+.\build\window.o: ..\STM32_STDPERIPH_DRIVER\CMSIS\Include\arm_common_tables.h

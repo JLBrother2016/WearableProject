@@ -1,0 +1,10 @@
+.\build\timer.o: ..\rt-thread-2.0.0\src\timer.c
+.\build\timer.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\timer.o: .\configure\include\rtconfig.h
+.\build\timer.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\timer.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\timer.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\timer.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\timer.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\timer.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\timer.o: ..\rt-thread-2.0.0\include\rthw.h

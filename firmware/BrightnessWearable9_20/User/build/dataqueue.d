@@ -1,0 +1,14 @@
+.\build\dataqueue.o: driver\tool\dataqueue.c
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\dataqueue.o: .\configure\include\rtconfig.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\dataqueue.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\components\drivers\include\rtdevice.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\components\drivers\include\drivers/serial.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\components\drivers\include\drivers/pin.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\components\drivers\include\rtdevice.h
+.\build\dataqueue.o: ..\rt-thread-2.0.0\include\rthw.h

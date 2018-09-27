@@ -1,0 +1,14 @@
+.\build\serial.o: driver\uart\serial.c
+.\build\serial.o: ..\rt-thread-2.0.0\include\rthw.h
+.\build\serial.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\serial.o: .\configure\include\rtconfig.h
+.\build\serial.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\serial.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\serial.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\serial.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\serial.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\serial.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\serial.o: ..\rt-thread-2.0.0\components\drivers\include\rtdevice.h
+.\build\serial.o: ..\rt-thread-2.0.0\components\drivers\include\drivers/serial.h
+.\build\serial.o: ..\rt-thread-2.0.0\components\drivers\include\drivers/pin.h
+.\build\serial.o: ..\rt-thread-2.0.0\components\drivers\include\rtdevice.h

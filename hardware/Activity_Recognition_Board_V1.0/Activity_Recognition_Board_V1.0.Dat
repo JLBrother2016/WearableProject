@@ -1,0 +1,32 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Activity_Recognition_Board_V1.0.PrjPcb|ReportField=ProjectFullPath~F:\403\WearableProject\HardWare\可穿戴硬件\PCB工程\Activity_Recognition_Board_V1.0—10.19\Activity_Recognition_Board_V1.0\Activity_Recognition_Board_V1.0.PrjPcb|ReportField=Title~Bill of Materials For Project [Activity_Recognition_Board_V1.0.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~112|ReportField=ReportTime~9:24:22|ReportField=ReportDate~2018/3/22|ReportField=ReportDateTime~2018/3/22 9:24:22|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/3/22|ReportField=CurrentTime~9:24:18|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\403\WearableProject\HardWare\可穿戴硬件\PCB工程\Activity_Recognition_Board_V1.0—10.19\Activity_Recognition_Board_V1.0\Activity_Recognition_Board_v1.0_TOP.SchDoc|ReportField=DocumentName~Activity_Recognition_Board_v1.0_TOP.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/2/20|ReportField=Organization~|ReportField=ProjectName~Activity_Recognition_Board_V1.0.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Activity_Recognition_Board_V1.0.PrjPcb|ReportField=DataSourceFullPath~F:\403\WearableProject\HardWare\可穿戴硬件\PCB工程\Activity_Recognition_Board_V1.0—10.19\Activity_Recognition_Board_V1.0\Activity_Recognition_Board_V1.0.PrjPcb
+1|BAT|BAT_CN|BAT1|BHDR2_1.87|BAT_CN|1
+2|Cap|Capacitor|C1, C2|C0603|Cap|2
+3|Cap|Capacitor|C3, C4|C0402|Cap|2
+4|Cap semi|Capacitor (Semiconductor SIM Model)|C5, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C24, C25, C27, C28, C29, C30, C31, C32, C33, C35, C37|C0402|Cap semi|25
+5|Cap semi|Capacitor (Semiconductor SIM Model)|C6, C7, C8, C9, C23, C34, C36, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47|C0603|Cap semi|17
+6|Cap semi|Capacitor (Semiconductor SIM Model)|C26|C0805|Cap semi|1
+7|LED3|Typical BLUE SiC LED|D1|LED0603|LED3|1
+8|Inductor|Inductor|L1|L0805|Inductor|1
+9|Micro_USB||Micro_USB1|Micro_USB|Micri_USB|1
+10|Res1|Resistor|R1, R35, R36|R0402|Res1|3
+11|Res3|Resistor|R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R14, R15, R16, R17, R21, R22, R23, R25, R28, R37, R41, R42|R0402|Res3|23
+12|Res3|Resistor|R13, R40|R0603|Res3|2
+13|Res2|Resistor|R18, R19, R24, R26, R27, R29, R30, R31, R32, R33, R34|R0402|Res2|11
+14|Res3|Resistor|R20|R0805|Res3|1
+15|Res2|Resistor|R39|C0603|Res2|1
+16|SW-PB|Switch|S1, S2, S3|MP34|SW-PB|3
+17|SD Card|SD card socket|SD1|SDCARD-M|Micro_SD_Card|1
+18|SWD_UART||SWD_UART1|FFC_6|SWD_UART|1
+19|Test_Point||T1, T2|Test_Point|Test_Point|2
+20|SSD1306||U1|OLED_Bare|SSD1306|1
+21|STM32F405RG|STM32F405RG|U2|LQFP64|STM32F405RG|1
+22|TPS62260|DC-DC buck|U3|QFN-6|TPS62260|1
+23|BQ24040||U4|WSON10|BQ24040|1
+24|BH1750FVI||U5|WSOF6I|BH1750FVI|1
+25|MPU6050|MPU6050|U6|QFN-24|MPU6050|1
+26|BMP180|BMP180|U7|LGA7|BMP180|1
+27|Si7021-A20||U8|Si7021-A10|Si7021-A20|1
+28|WM8978|WM8978|U9|QFN32|WM8978|1
+29|MEMS_microphone|MEMS_microphone|U10, U11|Microphone|MEMS_microphone|2
+30|25M|Crystal Oscillator|Y1|3225|XTAL|1
+31|32.768K|Crystal Oscillator|Y2|3215|XTAL|1

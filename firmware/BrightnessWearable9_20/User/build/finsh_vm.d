@@ -1,0 +1,16 @@
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\components\finsh\finsh_vm.c
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\components\finsh\finsh.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\finsh_vm.o: .\configure\include\rtconfig.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\finsh_vm.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\finsh_vm.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\ctype.h
+.\build\finsh_vm.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\build\finsh_vm.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\components\finsh\finsh_vm.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\components\finsh\finsh_var.h
+.\build\finsh_vm.o: ..\rt-thread-2.0.0\components\finsh\finsh_ops.h

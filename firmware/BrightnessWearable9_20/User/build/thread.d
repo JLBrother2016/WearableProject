@@ -1,0 +1,10 @@
+.\build\thread.o: ..\rt-thread-2.0.0\src\thread.c
+.\build\thread.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\thread.o: .\configure\include\rtconfig.h
+.\build\thread.o: ..\rt-thread-2.0.0\include\rtdebug.h
+.\build\thread.o: ..\rt-thread-2.0.0\include\rtdef.h
+.\build\thread.o: D:\WorkSoftWare\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\build\thread.o: ..\rt-thread-2.0.0\include\rtservice.h
+.\build\thread.o: ..\rt-thread-2.0.0\include\rtm.h
+.\build\thread.o: ..\rt-thread-2.0.0\include\rtthread.h
+.\build\thread.o: ..\rt-thread-2.0.0\include\rthw.h

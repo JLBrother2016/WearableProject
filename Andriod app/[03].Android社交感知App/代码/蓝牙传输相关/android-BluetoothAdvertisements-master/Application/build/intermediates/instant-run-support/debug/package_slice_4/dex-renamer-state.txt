@@ -1,0 +1,4 @@
+#Fri Dec 22 14:54:56 CST 2017
+base.0=E\:\\AndroidProjects\\android-BluetoothAdvertisements-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

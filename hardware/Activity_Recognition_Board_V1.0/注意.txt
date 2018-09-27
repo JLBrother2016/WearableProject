@@ -1,0 +1,9 @@
+为了布局方便，LED等和按键的接口改了，USB_ID改为了PA15
+Key_Up ------ PC0
+Key_Dn ------ PC1
+Key_Ok ------ PC2
+Key_Back ------ PC3
+LED2 ------ PA2
+LED1 ------ PA3
+
+还有几个端口请看原理图和PCB

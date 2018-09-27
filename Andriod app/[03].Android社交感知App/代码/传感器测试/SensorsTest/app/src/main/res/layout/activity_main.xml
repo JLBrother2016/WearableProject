@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.gujun.sensorstest.MainActivity">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="线性加速度传感器："
+        android:textSize="18dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="陀螺仪传感器："
+        android:textSize="18dp"
+        android:textColor="#ff0000" />
+
+    <TextView
+        android:id="@+id/tv_gyro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="磁力传感器："
+        android:textSize="18dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_magne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="方向传感器"
+        android:textSize="18dp"
+        android:textColor="#ff0000"/>
+    <TextView
+        android:id="@+id/tv_direct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="光强传感器："
+        android:textSize="18dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="气压传感器："
+        android:textSize="18dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_baro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="步伐计数值："
+        android:textSize="18dp"
+        android:textColor="#ff0000" />
+    <TextView
+        android:id="@+id/tv_step_counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"/>
+
+</LinearLayout>
